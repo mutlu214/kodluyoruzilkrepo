@@ -1,11 +1,9 @@
-# MERGE SORT HW (ALGORİTMALAR 2. PROJE)
+# BINARY SEARCH TREE HW (ALGORİTMALAR 3. PROJE)
 
-## SORU 1
+## SORU
 
 ### [7,5,1,8,3,6,0,9,4,2] -> dizisinin Binary-Search-Tree aşamalarını yazınız.
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
-
-
 ### CEVAP 
 
 > **root 5 tir**
